@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=dMBrR4gDi3s
 /* YUMO E6B2-CWZ3E OPTICAL ENCODER 
  * 
  * Outputs A & B: quadrature encoder
